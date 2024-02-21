@@ -20,9 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Store-Sales-Analysis-using-python             |  Python-based analysis of store sales.        | https://github.com/heldana30/Store-Sales-Analysis-using-python.git       |
+| 2 |  Caesar-Cipher-Encryptor-Decryptor-using-python             |  Python-based Caesar cipher encryptor and decryptor.           | https://github.com/heldana30/Caesar-Cipher-Encryptor-Decryptor-using-python.git       |
+| 3 |   Sales-and-Operations-Planning-Project-using-python
+             |  Python-based Sales and Operations Planning project.             | https://github.com/heldana30/Sales-and-Operations-Planning-Project-using-python.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
